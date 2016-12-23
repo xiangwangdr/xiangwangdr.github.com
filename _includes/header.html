@@ -2,11 +2,21 @@
    or page.title == "Blog"
    or page.title == "Projects"
    or page.title == "Tags"
+   or page.title == "Research"
+   or page.title == "Publications"
 %}{% assign showHeader = true %}{% endif %}
 
 {% if showHeader == true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
         {% if site.about %}
+            <a class="link" href="{{ site.url }}/about">
+                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+            </a>
+		{% elseif site.research %}
+            <a class="link" href="{{ site.url }}/about">
+                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+            </a>
+		{% elseif site.publication %}
             <a class="link" href="{{ site.url }}/about">
                 <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
             </a>
