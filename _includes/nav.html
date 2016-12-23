@@ -29,5 +29,13 @@
                 </li>
             {% endif %}
         {% endif %}
+		
+		{% if site.trypage == true %}
+            {% if page.title != "Trypage" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/about">Trypage</a>
+                </li>
+            {% endif %}
+        {% endif %}
     </ul>
 </nav>
