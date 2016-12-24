@@ -28,7 +28,7 @@ You can pick as item to see how to apply in markdown.
 
 #### Lecturer
 
-_2016.7-present_ 
+_2016.7-present_ 	
 
 School of Petroleum Engineering, [Changzhou University](http://www.cczu.edu.cn)
 
@@ -37,8 +37,8 @@ School of Petroleum Engineering, [Changzhou University](http://www.cczu.edu.cn)
 
 #### Visiting Scholar
 
-_2014.9-2015.9_
-Department of Mathematics & Statistics, [Memorial University of Newfoundland](http://www.mun.ca)
+_2014.9-2015.9_	
+Department of Mathematics & Statistics, [Memorial University of Newfoundland](http://www.mun.ca)	
 Applied Mathematics,
 
 #### Ph.D., _2010.9-2016.6_ 
