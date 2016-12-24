@@ -4,11 +4,7 @@ title: Home
 ---
 
 <p align="center">
-Broadly my interests involve aspects of scientific computing and numerical analysis with particular
-interest in the numerical solution of ordinary and partial differential equations. Specifically I work
-with adaptive numerical methods known as moving mesh methods for PDEs. Related interests
-include numerical linear algebra, domain decomposition methods including Schwarz waveform
-relaxation, large scale optimization, and multirate methods for ODEs.
+Here will be a brief self introduction.
 </p>
 
 
@@ -25,6 +21,36 @@ You can pick as item to see how to apply in markdown.
 - [Horizontal Rule](#horizontal-rule)
 - [Images](#images)
 - [Code](#code)
+
+---
+
+## Experiences
+
+### Lecturer, _2016.7-present_ 
+
+School of Petroleum Engineering, [Changzhou University](http://www.cczu.edu.cn)
+
+### Visiting Scholar, _2014.9-2015.9_
+
+Applied Mathematics, [Memorial University of Newfoundland](http://www.mun.ca)
+
+### Ph.D., _2010.9-2016.6_ 
+
+Oil and Gas Field Development Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn)
+
+### B.E., _2006.9-2010.6_ 
+
+Petroleum Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn)
+
+- **Visiting scholar**
+2014.9-2015.9
+Applied Mathematics
+[Memorial University of Newfoundland](http://www.mun.ca)
+- **Visiting scholar**,_2014.9-2015.9_
+Applied Mathematics
+[Memorial University of Newfoundland](http://www.mun.ca)
+- Ph.D., Oil and Gas Field Development Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn), 2010.9-2016.6
+- B.E., Petroleum Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn), 2006.9-2010.6
 
 ---
 
@@ -160,56 +186,6 @@ Markdown can also contain images. I'll need to add something here sometime.
 
 ---
 
-## Code
-
-A HTML Example:
-
-{% highlight html %}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Just a test</h1>
-</body>
-</html>
-{% endhighlight %}
-
-A CSS Example:
-
-{% highlight css %}
-pre {
-    padding: 10px;
-    font-size: .8em;
-    white-space: pre;
-}
-
-pre, table {
-    width: 100%;
-}
-
-code, pre, tt {
-    font-family: Monaco, Consolas, Inconsolata, monospace, sans-serif;
-    background: rgba(0,0,0,.05);
-}
-{% endhighlight %}
-
-A JS Example:
-
-{% highlight js %}
-// Sticky Header
-$(window).scroll(function() {
-
-    if ($(window).scrollTop() > 900 && !$("body").hasClass('show-menu')) {
-        $('#hamburguer__open').fadeOut('fast');
-    } else if (!$("body").hasClass('show-menu')) {
-        $('#hamburguer__open').fadeIn('fast');
-    }
-
-});
-{% endhighlight %}
 
 [1]: http://daringfireball.net/projects/markdown/
 [2]: http://www.fileformat.info/info/unicode/char/2163/index.htm
