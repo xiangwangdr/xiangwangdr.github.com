@@ -4,9 +4,9 @@ layout: page_cn
 ---
 
 <p align="center">
-    <b><a href="#论文">论文</a></b>
+    <b><a href="#papers">论文</a></b>
     |
-    <b><a href="#专利">专利</a></b>
+    <b><a href="#patents">专利</a></b>
 	|
     <b><a href="#软件">软件</a></b>
 	|
@@ -15,7 +15,7 @@ layout: page_cn
 
 ---
 
-## 论文
+## <span id="papers">论文</span>
 
 #### Refereed journal papers  
 
@@ -43,7 +43,7 @@ layout: page_cn
 
 ---
 
-## 专利
+## 专利<span id="patents"></span>
 
 1. Qihong Feng, **Xiang Wang**, Xianmin Zhang, et al. A Well Pattern Optimization Method in Water Flooding Oil Reservoir, China, 201511024688.8, 2015.
 2. Qihong Feng, **Xiang Wang**, Xianmin Zhang, et al. An Injection Rate Optimization Method for Subdivision Water Injection Reservoir. China, 201610438774.1, 2016.

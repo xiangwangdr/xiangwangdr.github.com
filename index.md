@@ -75,6 +75,6 @@ School of Petroleum Engineering, [China University of Petroleum (East China)](ht
 
 ## Contacts
 
-* Email: xiangwangdr@gmail.com
+* Email: <xiangwangdr@gmail.com>
 
 ---
