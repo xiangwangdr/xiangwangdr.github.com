@@ -3,7 +3,17 @@ title: Publications
 layout: page
 ---
 
+<p align="center">
+    <b><a href="#papers">Papers</a></b>
+    |
+    <b><a href="#patents">Patents</a></b>
+	|
+    <b><a href="#softwares">Softwares</a></b>
+	|
+    <b><a href="#dissertations">Dissertations</a></b>
+</p>
 
+---
 
 ## Papers
 
@@ -49,7 +59,7 @@ layout: page
 
 ---
 
-## Theses/dissertations
+## Dissertations
 
 1. Xiang Wang, 2016: Well Placement and Production Optimization for Water-Flooding Oil Fields. PhD dissertation China University of Petroleum (East China), Qingdao.
 
