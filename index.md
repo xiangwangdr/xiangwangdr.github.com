@@ -26,29 +26,42 @@ You can pick as item to see how to apply in markdown.
 
 ## Experiences
 
-### Lecturer, _2016.7-present_ 
+#### Lecturer
+
+_2016.7-present_ 
 
 School of Petroleum Engineering, [Changzhou University](http://www.cczu.edu.cn)
 
-### Visiting Scholar, _2014.9-2015.9_
+* aaaa
+* bbbb
 
-Applied Mathematics, [Memorial University of Newfoundland](http://www.mun.ca)
+#### Visiting Scholar
 
-### Ph.D., _2010.9-2016.6_ 
+_2014.9-2015.9_
+Department of Mathematics & Statistics, [Memorial University of Newfoundland](http://www.mun.ca)
+Applied Mathematics,
 
-Oil and Gas Field Development Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn)
+#### Ph.D., _2010.9-2016.6_ 
 
-### B.E., _2006.9-2010.6_ 
+School of Petroleum Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn)
 
-Petroleum Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn)
+Oil and Gas Field Development Engineering, 
+
+#### B.E., _2006.9-2010.6_ 
+
+School of Petroleum Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn)
+
+Petroleum Engineering, 
 
 - **Visiting scholar**
 2014.9-2015.9
 Applied Mathematics
 [Memorial University of Newfoundland](http://www.mun.ca)
+
 - **Visiting scholar**,_2014.9-2015.9_
 Applied Mathematics
 [Memorial University of Newfoundland](http://www.mun.ca)
+
 - Ph.D., Oil and Gas Field Development Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn), 2010.9-2016.6
 - B.E., Petroleum Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn), 2006.9-2010.6
 
