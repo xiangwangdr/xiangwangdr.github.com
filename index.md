@@ -12,15 +12,13 @@ Here will be a brief self introduction.
 
 You can pick as item to see how to apply in markdown.
 
-### Comum Elements
-- [Basic formatting](#basic-formatting)
-- [Headings](#headings)
-- [Lists](#lists)
-- [Paragraph Modifiers](#paragraph-modifiers)
-- [Urls](#urls)
-- [Horizontal Rule](#horizontal-rule)
-- [Images](#images)
-- [Code](#code)
+---
+
+<p align="center">
+    <b><a href="index.md#experiences">Experiences</a></b>
+    |
+    <b><a href="index.md#research-interests">Research Interests</a></b>
+</p>
 
 ---
 
@@ -28,15 +26,14 @@ You can pick as item to see how to apply in markdown.
 
 #### Lecturer
 
-_2016.7-present_ 	
+_2016.7-present_     
 School of Petroleum Engineering, [Changzhou University](http://www.cczu.edu.cn)    
-* aaaa
-* bbbb
 
 #### Visiting Scholar
 
 _2014.9-2015.9_      
-Department of Mathematics & Statistics, [Memorial University of Newfoundland](http://www.mun.ca)        	
+Department of Mathematics & Statistics, [Memorial University of Newfoundland](http://www.mun.ca)     
+   	
 * Major in Applied Mathematics.
 * Supervised by Prof. Qihong Feng.
 
@@ -44,6 +41,7 @@ Department of Mathematics & Statistics, [Memorial University of Newfoundland](ht
 
 _2010.9-2016.6_    
 School of Petroleum Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn)    
+
 * Major in Oil and Gas Field Development Engineering.
 * Supervised by Prof. Qihong Feng.
 
@@ -51,6 +49,7 @@ School of Petroleum Engineering, [China University of Petroleum(East China)](htt
 
 _2006.9-2010.6_    
 School of Petroleum Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn)    
+
 * Major in Petroleum Engineering.
 * Supervised by Prof. Qihong Feng.
 
