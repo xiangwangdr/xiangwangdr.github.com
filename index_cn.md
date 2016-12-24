@@ -1,6 +1,6 @@
 ---
-layout: page
-title: HomeCHN
+layout: page_cn
+title: 主页
 ---
 
 <p>这是中文版网页</p>

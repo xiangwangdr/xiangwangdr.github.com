@@ -1,28 +1,28 @@
-<nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
+<nav class="{% if page.title == "Home_cn" %}nav-home{% else %}nav{% endif %}">
     <ul class="list">
-        {% if page.title != "Home" %}
+        {% if page.title != "Home_cn" %}
             <li class="item">
                 <a class="link" href="{{ site.url }}/">Home</a>
             </li>
         {% endif %}
 
-		{% if site.research == true %}
-            {% if page.title != "Research" %}
+		{% if site.research_cn == true %}
+            {% if page.title != "研究" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/research">Research</a>
+                    <a class="link" href="{{ site.url }}/research_cn">研究</a>
                 </li>
             {% endif %}
         {% endif %}
 		
-		{% if site.publications == true %}
-            {% if page.title != "Publications" %}
+		{% if site.publications_cn == true %}
+            {% if page.title != "论文" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/publications">Publications</a>
+                    <a class="link" href="{{ site.url }}/publications_cn">论文</a>
                 </li>
             {% endif %}
         {% endif %}
 		
-        {% if site.blog == true %}
+<!--         {% if site.blog == true %}
             {% if page.title != "Blog" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/blog">Blog</a>
@@ -44,10 +44,11 @@
                     <a class="link" href="{{ site.url }}/about">About</a>
                 </li>
             {% endif %}
-        {% endif %}
-		
+        {% endif %} -->
+                
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/home_cn">中文版</a>
+                    <a class="link" href="{{ site.url }}/">English</a>
                 </li>
+
     </ul>
 </nav>
