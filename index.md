@@ -52,14 +52,19 @@ School of Petroleum Engineering, [China University of Petroleum (East China)](ht
 * Major in Petroleum Engineering.
 * Supervised by Prof. Qihong Feng.
 
-#### B.E.工学学士
+<div class="side-by-side">
+    <div class="toleft">
+        <p><b>B.E.</b></p>
+    </div>
 
-_2006.9-2010.6_    
-石油工程学院, [中国石油大学（华东）](http://www.upc.edu.cn)    
+    <div class="toright">
+        <p><i>2006.9-2010.6</i></p>
+    </div>
+</div>
+School of Petroleum Engineering, [China University of Petroleum (East China)](http://www.upc.edu.cn)    
 
-* 专业：石油工程.
-* 导师：Prof. Qihong Feng.
-* 如果有**中文**会是*什么*效果？
+* Major in Petroleum Engineering.
+* Supervised by Prof. Qihong Feng.
 
 ---
 
