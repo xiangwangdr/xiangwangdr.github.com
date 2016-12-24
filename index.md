@@ -5,7 +5,7 @@ title: Home
 
 ## Summary
 
-Here will be a brief self-introduction. coming soon...
+I am a Ph.D. currently working as an Lecturer at School of Petroleum Engineering, Changzhou University, China. I have significant experience working on problems related to oilfield development engineering.  
 
 ---
 
@@ -47,20 +47,6 @@ School of Petroleum Engineering, [China University of Petroleum (East China)](ht
 #### B.E.
 
 _2006.9-2010.6_    
-School of Petroleum Engineering, [China University of Petroleum (East China)](http://www.upc.edu.cn)    
-
-* Major in Petroleum Engineering.
-* Supervised by Prof. Qihong Feng.
-
-<div class="side-by-side">
-    <div class="toleft">
-        <p><b>B.E.</b></p>
-    </div>
-
-    <div class="toright">
-        <p><i>2006.9-2010.6</i></p>
-    </div>
-</div>
 School of Petroleum Engineering, [China University of Petroleum (East China)](http://www.upc.edu.cn)    
 
 * Major in Petroleum Engineering.
