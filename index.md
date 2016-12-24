@@ -3,11 +3,13 @@ layout: page
 title: Home
 ---
 
-<p align="center">Broadly my interests involve aspects of scientific computing and numerical analysis with particular
+<p align="center">
+Broadly my interests involve aspects of scientific computing and numerical analysis with particular
 interest in the numerical solution of ordinary and partial differential equations. Specifically I work
 with adaptive numerical methods known as moving mesh methods for PDEs. Related interests
 include numerical linear algebra, domain decomposition methods including Schwarz waveform
-relaxation, large scale optimization, and multirate methods for ODEs.</p>
+relaxation, large scale optimization, and multirate methods for ODEs.
+</p>
 
 
 ## Education
@@ -23,3 +25,5 @@ You can test your app with:
 ```bash
 npm run test
 ```
+
+---
