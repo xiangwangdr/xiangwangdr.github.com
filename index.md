@@ -3,11 +3,6 @@ layout: page
 title: Home
 ---
 
-<p align="center">
-Here will be a brief self introduction.
-</p>
-
-
 ## Summary:
 
 You can pick as item to see how to apply in markdown.
@@ -15,9 +10,9 @@ You can pick as item to see how to apply in markdown.
 ---
 
 <p align="center">
-    <b><a href="index.md#experiences">Experiences</a></b>
+    <b><a href="#experiences">Experiences</a></b>
     |
-    <b><a href="index.md#research-interests">Research Interests</a></b>
+    <b><a href="#research-interests">Research Interests</a></b>
 </p>
 
 ---
@@ -35,12 +30,12 @@ _2014.9-2015.9_
 Department of Mathematics & Statistics, [Memorial University of Newfoundland](http://www.mun.ca)     
    	
 * Major in Applied Mathematics.
-* Supervised by Prof. Qihong Feng.
+* Supervised by Prof. Ronald D. Haynes.
 
 #### Ph.D.
 
 _2010.9-2016.6_    
-School of Petroleum Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn)    
+School of Petroleum Engineering, [China University of Petroleum (East China)](http://www.upc.edu.cn)    
 
 * Major in Oil and Gas Field Development Engineering.
 * Supervised by Prof. Qihong Feng.
@@ -48,7 +43,7 @@ School of Petroleum Engineering, [China University of Petroleum(East China)](htt
 #### B.E.
 
 _2006.9-2010.6_    
-School of Petroleum Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn)    
+School of Petroleum Engineering, [China University of Petroleum (East China)](http://www.upc.edu.cn)    
 
 * Major in Petroleum Engineering.
 * Supervised by Prof. Qihong Feng.
