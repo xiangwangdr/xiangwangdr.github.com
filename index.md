@@ -29,45 +29,39 @@ You can pick as item to see how to apply in markdown.
 #### Lecturer
 
 _2016.7-present_ 	
-
-School of Petroleum Engineering, [Changzhou University](http://www.cczu.edu.cn)
-
+School of Petroleum Engineering, [Changzhou University](http://www.cczu.edu.cn)    
 * aaaa
 * bbbb
 
 #### Visiting Scholar
 
-_2014.9-2015.9_    
-Department of Mathematics & Statistics, [Memorial University of Newfoundland](http://www.mun.ca)     	
-Applied Mathematics,
+_2014.9-2015.9_      
+Department of Mathematics & Statistics, [Memorial University of Newfoundland](http://www.mun.ca)        	
+* Major in Applied Mathematics.
+* Supervised by Prof. Qihong Feng.
 
-_2014.9-2015.9_\
-Department of Mathematics & Statistics, [Memorial University of Newfoundland](http://www.mun.ca)\
-Applied Mathematics,
+#### Ph.D.
 
-#### Ph.D., _2010.9-2016.6_ 
+_2010.9-2016.6_    
+School of Petroleum Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn)    
+* Major in Oil and Gas Field Development Engineering.
+* Supervised by Prof. Qihong Feng.
 
-School of Petroleum Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn)
+#### B.E.
 
-Oil and Gas Field Development Engineering, 
+_2006.9-2010.6_    
+School of Petroleum Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn)    
+* Major in Petroleum Engineering.
+* Supervised by Prof. Qihong Feng.
 
-#### B.E., _2006.9-2010.6_ 
+---
 
-School of Petroleum Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn)
+## Research Interests
 
-Petroleum Engineering, 
-
-- **Visiting scholar**
-2014.9-2015.9
-Applied Mathematics
-[Memorial University of Newfoundland](http://www.mun.ca)
-
-- **Visiting scholar**,_2014.9-2015.9_
-Applied Mathematics
-[Memorial University of Newfoundland](http://www.mun.ca)
-
-- Ph.D., Oil and Gas Field Development Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn), 2010.9-2016.6
-- B.E., Petroleum Engineering, [China University of Petroleum(East China)](http://www.upc.edu.cn), 2006.9-2010.6
+* Well placement & production optimization
+* Numerical reservoir simulation
+* Smart oilfield
+* Mature oilfield development engineering
 
 ---
 
