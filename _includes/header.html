@@ -6,6 +6,11 @@
    or page.title == "Publication" -->
 %}{% assign showHeader = true %}{% endif %}
 
+{% if page.title == "Research"
+   or page.title == "Publication" 
+%}{% assign showHeader = false %}{% endif %}
+
+
 {% if showHeader == true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
         {% if site.about %}
