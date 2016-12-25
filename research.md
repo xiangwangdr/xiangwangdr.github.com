@@ -48,4 +48,4 @@ layout: page
 * Equilibrium displacement is proved the most efficient and the most economical development strategy for water flooding reservoir.
 * An indicator, saturation standard deviation (SSD), is presented to evaluate the displacement equalization degree, and is used as the objective function for well placement and production optimization problems. 
 
----
+--- 
