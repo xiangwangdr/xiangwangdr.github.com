@@ -6,11 +6,12 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - science
-- 2016
 blog: true
 author: xiangwangen
 description: It's been a long year.
 ---
+
+## 23 science facts we didn't know at the start of 2016
 
 1. Gravitational waves are real. More than 100 years after Einstein first predicted them, researchers finally detected the elusive ripples in space time this year. We've now seen three gravitational wave events in total.
 
