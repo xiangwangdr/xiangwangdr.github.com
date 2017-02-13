@@ -5,7 +5,7 @@ title: Home
 
 ## Summary
 
-I am a Ph.D. currently working as an Lecturer at School of Petroleum Engineering, Changzhou University, China. I have significant experience working on problems related to oilfield development engineering.  
+I'm a Ph.D. currently working as an Lecturer at School of Petroleum Engineering, Changzhou University, China. I have significant experience working on problems related to oilfield development engineering.  
 
 ---
 
